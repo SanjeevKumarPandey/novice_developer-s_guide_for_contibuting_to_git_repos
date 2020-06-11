@@ -40,5 +40,5 @@ $ git pull origin develop
 Now you are even with the develop branch (if you weren't already)
 Note: Do this **only** after you have commited your existing changes, if any
 
-#### 5. For a new task or feature and repeat steps 2-4
+#### 5. For a new task or feature, repeat steps 2-4
 
