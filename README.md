@@ -29,7 +29,14 @@ $ git push -u origin mytask_myname
 
 # note that mytask_myname is the name of the new branch you are working in
 ```
-#### 4. Switch to _develop_ branch and pull latest changes for it
+#### 4. Create a Pull Request
+- Go to repository on github.com
+- Click on 'Pull Requests' > 'New pull request'
+- Use `develop` as base branch and click on 'Create pull reequest'
+
+> Do not merge the branch yourself unless explicitly asked. Always wait for a peer/ lead review 
+
+#### 5. Switch to _develop_ branch and pull latest changes for it
 
 ```sh
 $ git checkout develop
@@ -40,5 +47,5 @@ $ git pull origin develop
 Now you are even with the develop branch (if you weren't already)
 Note: Do this **only** after you have commited your existing changes, if any
 
-#### 5. For a new task or feature, repeat steps 2-4
+#### 6. For a new task or feature, repeat steps 2-5
 
