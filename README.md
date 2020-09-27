@@ -52,4 +52,4 @@ Note: Do this **only** after you have commited your existing changes, if any
 
 
 ## Here is a visual of how the process looks like
-![Development Guidelines_ Code-Collaboration, Version Tracking, and Release.png](Development-Guidelines_ Code-Collaboration_VersionTracking,andRelease.png)
+![Development Guidelines_ Code-Collaboration, Version Tracking, and Release.png](https://github.com/SanjeevKumarPandey/novice_developer-s_guide_for_contibuting_to_git_repos/blob/master/Development-Guidelines-Code-Collaboration-VersionTracking-and-Release.png)
