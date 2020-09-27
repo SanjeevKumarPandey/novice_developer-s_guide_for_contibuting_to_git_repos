@@ -18,7 +18,7 @@ $ git checkout -b adding_new_carousel_sanjeev
 
 #### 3. After task is done/ feature is created, and you are ready to commit, commit your branch
 
-> syntax: git add [file] or use git add . for commiting all changes to all files
+> syntax: `git add [filename]` or use `git add .` for commiting all changes to all files
 
 ```sh
 $ git add .
