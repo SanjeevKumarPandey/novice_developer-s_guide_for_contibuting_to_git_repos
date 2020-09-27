@@ -1,4 +1,4 @@
-# Novice Developer's Guide for Contributing to Github Projects
+# Novice Developer's Guide for Contributing to Github and Gitlab Projects
 
 #### 1. Clone _develop_ branch to local system
 
@@ -9,7 +9,8 @@ $ git clone git@github.com:SanjeevKumarPandey/novice_developer-s_guide_for_conti
 ```
 #### 2. For a new task or feature, create a new branch
 
-> syntax: git checkout -b [mytask_myname]
+> syntax: git checkout -b [mytask_myname] 
+> _PS: Order of task and name is not important, you only need to pick a branch name that clearly shows who worked on what feature or bug_
 e.g. 
 ```sh
 $ git checkout -b adding_new_carousel_sanjeev
@@ -49,3 +50,6 @@ Note: Do this **only** after you have commited your existing changes, if any
 
 #### 6. For a new task or feature, repeat steps 2-5
 
+
+## Here is a visual of how the process looks like
+![Development Guidelines_ Code-Collaboration, Version Tracking, and Release.png](Development-Guidelines_ Code-Collaboration_VersionTracking,andRelease.png)
